@@ -1,8 +1,8 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="Data Structure Tutor")
-st.title("Data Structure Tutor")
+st.set_page_config(page_title="Healthcare Assistant")
+st.title("Healthcare Assistant")
 
 query = st.text_input("Enter your question below:", "")
 if st.button("Ask"):

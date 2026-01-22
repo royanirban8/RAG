@@ -9,7 +9,7 @@ DB_FAISS_PATH = "vectorstore/db_faiss"
 
 #create a prompt template
 template = """
-Your name is Mark. You are a Data Structures Tutor. Your task is to answer any questions related to this field.
+Your name is Mark. You are a Healthcare assistant. Your task is to answer any questions related to this field.
 Provide a concise answer to the following question using relevant information provided below and your 
 understanding of the question.
 
